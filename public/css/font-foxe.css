@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "FoXE";
+	src: url(../fonts/foxe/foxe-regular.eot);
+	src: local("FoXE"), local("FoXE"),
+	url(../fonts/foxe/foxe-regular.woff) format("woff2"),
+	url(../fonts/foxe/foxe-regular.woff) format("woff"),
+	url(../fonts/foxe/foxe-regular.ttf) format("truetype");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "FoXE";
+	src: url(../fonts/foxe/foxe-bold.eot);
+	src: local("FoXE"), local("FoXE"),
+	url(../fonts/foxe/foxe-bold.woff) format("woff2"),
+	url(../fonts/foxe/foxe-bold.woff) format("woff"),
+	url(../fonts/foxe/foxe-bold.ttf) format("truetype");
+	font-weight: 900;
+}
